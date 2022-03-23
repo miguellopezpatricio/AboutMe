@@ -12,3 +12,6 @@ miguellopezpatricio/miguellopezpatricio is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
+Puedes ver algunos de mis trabajos:
+www.mazaroca.com
+www.armadorespuntadelmoral.com
