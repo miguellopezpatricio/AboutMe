@@ -3,7 +3,7 @@ Una pequeña reseña... under construction
 
 - 👋 Hi, I’m @miguellopezpatricio
 - 👀 I’m interested in music, movies, literature and, of course, programming
-- 🌱 I’m currently learning docker and React
+- 🌱 I’m currently learning Spring and React
 - 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 How to reach me: ml.patri@gmail.com
 
