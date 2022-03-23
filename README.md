@@ -16,8 +16,8 @@ Puedes ver algunos de mis trabajos:
 www.mazaroca.com
 www.armadorespuntadelmoral.com
 
-![Mazaroca web](https://github.com/miguellopezpatricio/AboutMe/mazaroca.png)
-![Punta del Moral web](https://github.com/miguellopezpatricio/AboutMe/armadores.png)
-![Peix blau web](https://github.com/miguellopezpatricio/AboutMe/peixblau.png)
+![Mazaroca web](https://github.com/miguellopezpatricio/AboutMe//blob/main/mazaroca.png)
+![Punta del Moral web](https://github.com/miguellopezpatricio/blob/main/AboutMe/armadores.png)
+![Peix blau web](https://github.com/miguellopezpatricio/blob/main//AboutMe/peixblau.png)
 
 
