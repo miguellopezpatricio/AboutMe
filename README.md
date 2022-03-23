@@ -12,12 +12,15 @@ miguellopezpatricio/miguellopezpatricio is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-Puedes ver algunos de mis trabajos:
-www.mazaroca.com
-www.armadorespuntadelmoral.com
+# Puedes ver algunos de mis trabajos:
 
+## Restaurante 'A Casa de Rosa de Mazaroca'
 ![Mazaroca web](https://github.com/miguellopezpatricio/AboutMe/blob/main/mazaroca.png)
-![Punta del Moral web](https://github.com/miguellopezpatricioAboutMe/blob/main/armadores.png)
+
+## Armadores 'Punta del Moral'
+![Punta del Moral web](https://github.com/miguellopezpatricio/AboutMe/blob/main/armadores.png)
+
+## OPP 87 'O Peix Blau'
 ![Peix blau web](https://github.com/miguellopezpatricio/AboutMe/blob/main/peixblau.png)
 
 
