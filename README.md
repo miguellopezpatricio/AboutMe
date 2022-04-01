@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 ## Puedes ver algunos de mis trabajos:
 
 ### Webs en WordPress
-![Webs en WP](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/webs.gif)
+![Webs en WP](https://github.com/miguellopezpatricio/blob/webs.gif)
 
