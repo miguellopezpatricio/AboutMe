@@ -32,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 ## Puedes ver algunos de mis trabajos visitando mis repositorios
 
 ### Webs en WordPress
-![Webs en WP](webs.gif)
+![Webs en WP](/images/webs.gif)
 
 ## Apps & Fun
-<img src="comuniapp.gif" alt="ComuniApp" height="250"/>   <img src="calculinha.gif" alt="calculadora en python" height="250"/>   <img src="spaceinvaders.gif" alt="Space Invaders in python" height="250"/>
+<img src="/images/comuniapp.gif" alt="ComuniApp" height="250"/>   <img src="/images/calculinha.gif" alt="calculadora en python" height="250"/>   <img src="/images/spaceinvaders.gif" alt="Space Invaders in python" height="250"/>
 
 
 ### Contacta conmigo
