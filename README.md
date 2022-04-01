@@ -14,15 +14,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-<img src="/images/logo-mysql.svg" alt="logo mysql" height="100"/><img src="/images/logo-php.svg" alt="logo php" height="100"/>
+<img src="/images/logo-mysql.svg" alt="logo mysql" height="50"/><img src="/images/logo-php.svg" alt="logo php" height="50"/>
 <br>
 
 
-<img src="/images/logo-java.svg" alt="logo java" height="100"/><img src="/images/logo-android.svg" alt="logo android" height="100"/><img src="/images/logo-spring.svg" alt="logo spring" height="100"/>
+<img src="/images/logo-java.svg" alt="logo java" height="50"/><img src="/images/logo-android.svg" alt="logo android" height="50"/><img src="/images/logo-spring.svg" alt="logo spring" height="50"/>
 <br>
-<img src="/images/logo-javascript.svg" alt="logo js" height="100"/><img src="/images/logo-react.svg" alt="logo react" height="100"/>
+<img src="/images/logo-javascript.svg" alt="logo js" height="50"/><img src="/images/logo-react.svg" alt="logo react" height="50"/>
 <br>
-<img src="/images/logo-python.svg" alt="logo python" height="100"/>
+<img src="/images/logo-python.svg" alt="logo python" height="50"/>
 
 
 ## Other skills...
