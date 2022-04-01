@@ -28,13 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Puedes ver algunos de mis trabajos:
 
-### Restaurante 'A Casa de Rosa de Mazaroca'
-![Mazaroca web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/mazaroca.png)
-
-### Armadores 'Punta del Moral'
-![Punta del Moral web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/armadores.png)
-
-### OPP 87 'O Peix Blau'
-![Peix blau web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/peixblau.png)
-
+### Webs en WordPress
+![Webs en WP](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/webs.gif)
 
