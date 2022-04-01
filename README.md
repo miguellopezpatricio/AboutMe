@@ -26,6 +26,7 @@ React
 ## Puedes ver algunos de mis trabajos:
 
 ### Webs en WordPress
+![Webs en WP](webs.gif)
 
 ## Apps 
 ![ComuniApp](comuniapp.gif)
