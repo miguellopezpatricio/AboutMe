@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![Webs en WP](webs.gif)
 
 ## Apps & Fun
-<img src="comuniapp.gif" alt="ComuniApp" height="200"/><img src="calculinha.gif" alt="calculadora en python" height="200"/><img src="spaceinvaders.gif" alt="Space Invaders in python" height="200"/>
+<img src="comuniapp.gif" alt="ComuniApp" height="200"/>   <img src="calculinha.gif" alt="calculadora en python" height="200"/>   <img src="spaceinvaders.gif" alt="Space Invaders in python" height="200"/>
 
 
 ### Contacta conmigo
