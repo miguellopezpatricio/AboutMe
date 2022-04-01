@@ -13,12 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-### Languages
-PHP - JS - Java -Python
-## Frameworks
-Spring
-## Libraries
-React
+(/images/mysql.svg)(/images/java.svg)(/images/js.svg)(/images/android.svg)
+... and many more
+
 ## Other skills...
 ;-)
 
