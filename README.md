@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-### Langages
+### Languages
 ![PHP](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/php.png)
 ![Java](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/java.png)
 ![JavaScript](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/js.png)
@@ -29,12 +29,12 @@ You can click the Preview link to take a look at your changes.
 ## Puedes ver algunos de mis trabajos:
 
 ### Restaurante 'A Casa de Rosa de Mazaroca'
-![Mazaroca web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/)
+![Mazaroca web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/mazaroca.png)
 
 ### Armadores 'Punta del Moral'
-![Punta del Moral web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/)
+![Punta del Moral web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/armadores.png)
 
 ### OPP 87 'O Peix Blau'
-![Peix blau web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/)
+![Peix blau web](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/main/peixblau.png)
 
 
