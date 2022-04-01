@@ -13,20 +13,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
+<img src="/images/logo-mysql.svg" alt="logo mysql" height="100"/>
+<img src="/images/logo-php.svg" alt="logo php" height="100"/>
 <img src="/images/logo-java.svg" alt="logo java" height="100"/>
-![](/images/logo-js.svg)
-![](/images/logo-python.svg)
-
-![](/images/logo-android.svg)
-![](/images/logo-spring.svg)
-![](/images/logo-react.svg)
+<img src="/images/logo-android.svg" alt="logo android" height="100"/>
+<img src="/images/logo-spring.svg" alt="logo spring" height="100"/>
+<img src="/images/logo-javascript.svg" alt="logo js" height="100"/>
+<img src="/images/logo-react.svg" alt="logo react" height="100"/>
+<img src="/images/logo-python.svg" alt="logo python" height="100"/>
 
 
 ## Other skills...
 ;-)
 
 
-## Puedes ver algunos de mis trabajos:
+## Puedes ver algunos de mis trabajos visitando mis repositorios
 
 ### Webs en WordPress
 ![Webs en WP](webs.gif)
