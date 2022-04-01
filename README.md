@@ -14,22 +14,22 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 ### Languages
-![PHP](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/php.png)
-![Java](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/java.png)
-![JavaScript](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/js.png)
-![Python](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/python.png)
+PHP - JS - Java -Python
 ## Frameworks
-![Spring]
-## LIbraries
-![React]
+Spring
+## Libraries
+React
 ## Other skills...
-![smile]
+;-)
 
 
 ## Puedes ver algunos de mis trabajos:
 
 ### Webs en WordPress
-![Webs en WP](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/webs.gif)
 
 ## Apps 
-![Apps](https://github.com/miguellopezpatricio/miguellopezpatricio/blob/apps.gif)
+![ComuniApp](comuniapp.gif)
+![Calculinha](calculinha.gif)
+
+### Contacta conmigo
+mail - twitter - linkedIn
