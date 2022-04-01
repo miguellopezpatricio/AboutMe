@@ -1,11 +1,11 @@
 # </> AboutMe
 Una pequeña reseña... under construction
 
-- 👋 Hi, I’m @miguellopezpatricio
+- 👋 Hi, I’m @miguellopezpatricio and I'm a fullstack developer
 - 👀 I’m interested in music, movies, literature and, of course, programming
 - 🌱 I’m currently learning Spring and React
 - 💞️ I’m looking to collaborate on new and exciting projects
-- 📫 How to reach me: ml.patri@gmail.com
+- 📫 How to reach me: ml.patri@gmail.com and @MLPatri
 
 <!---
 miguellopezpatricio/miguellopezpatricio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
