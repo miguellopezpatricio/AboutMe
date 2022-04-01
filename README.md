@@ -13,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-![](/images/logo-java.svg)
+<img src="/images/logo-java.svg" alt="logo java" height="100"/>
 ![](/images/logo-js.svg)
 ![](/images/logo-python.svg)
+
 ![](/images/logo-android.svg)
 ![](/images/logo-spring.svg)
 ![](/images/logo-react.svg)
 
-... and many more
 
 ## Other skills...
 ;-)
