@@ -1,11 +1,11 @@
 # </> AboutMe
-Una pequeña reseña... under construction
+Always under construction
 
 - 👋 Hi, I’m @miguellopezpatricio and I'm a fullstack developer
 - 👀 I’m interested in music, movies, literature and, of course, programming
-- 🌱 I’m currently learning Spring and React
-- 💞️ I’m looking to collaborate on new and exciting projects
-- 📫 How to reach me: ml.patri@gmail.com and @MLPatri
+- 🌱 Currently I’m learning Spring and React
+- 💞️ I would like to collaborate on new and exciting projects
+- 📫 How to contact me: ml.patri@gmail.com and @MLPatri
 
 <!---
 miguellopezpatricio/miguellopezpatricio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-<img src="/images/logo-mysql.svg" alt="logo mysql" height="50"/><img src="/images/logo-php.svg" alt="logo php" height="50"/>
+<img src="/images/logo-mysql.svg" alt="logo mysql" height="50"/><img src="/images/logo-php.svg" alt="logo php" height="50"/><img src="/images/logo-laravel.svg" alt="logo laravel" height="50"/>
 <br>
 
 
