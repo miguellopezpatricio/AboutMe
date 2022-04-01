@@ -39,4 +39,4 @@ Always learning something new ;-)
 
 
 ### Contacta conmigo
-<a href="mailto:ml.patri@gmail.com"><img src="/images/logo-mail.svg" alt="ComuniApp" height="50"/></a>  <a href="https://twitter.com/MLpatri"><img src="/images/logo-twitter.svg" alt="ComuniApp" height="50"/></a>
+<a href="mailto:ml.patri@gmail.com"><img src="/images/logo-mail.svg" alt="ComuniApp" height="50"/></a>  <a href="https://twitter.com/MLpatri"><img src="/images/logo-twitter.svg" alt="ComuniApp" height="50"/></a> <a href="https://www.linkedin.com/in/miguel-lopez-patricio/"><img src="/images/logo-linkedin.svg" alt="linkedin" height="50"/></a>
