@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 <img src="/images/logo-python.svg" alt="logo python" height="50"/>
 
 
-## Other skills...
-;-)
+### Other skills...
+Always learning something new ;-)
 
 
 ## Puedes ver algunos de mis trabajos visitando mis repositorios
@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Contacta conmigo
-mail - twitter - linkedIn
+<a href="mailto:ml.patri@gmail.com">ml.patri@gmail.com</a> | <a href="https://twitter.com/MLpatri">@Mlpatri</a>
