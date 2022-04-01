@@ -13,10 +13,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-![](/images/mysql.svg)
-![](/images/java.svg)
-![](/images/js.svg)
-![](/images/android.svg)
+![](/images/logo-java.svg)
+![](/images/logo-js.svg)
+![](/images/logo-python.svg)
+![](/images/logo-android.svg)
+![](/images/logo-spring.svg)
+![](/images/logo-react.svg)
+
 ... and many more
 
 ## Other skills...
